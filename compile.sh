@@ -6,6 +6,7 @@ output_file="game"
 # List all the source files to be compiled
 source_files=(
     "src/main.cpp"
+    "src/player.cpp"
     "src/game.cpp"
     # Add more source files as needed
 )
