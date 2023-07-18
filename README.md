@@ -13,8 +13,8 @@
 ## How to Play
 
 1. **Clone** the repository: `git clone https://github.com/your-username/ServerManagerGame.git`
-2. **Compile** the source code: `g++ -o ServerManagerGame main.cpp`
-3. **Run** the game: `./ServerManagerGame`
+2. **Compile** the source code using compile script: `sudo chmod +x compile.sh` and then `./compile.sh`
+3. **Run** the game once it has compiled: `./game`
 4. Follow the on-screen instructions to navigate menus, buy parts, and host servers.
 5. Aim to reach a specific balance goal or maximize your income to win the game!
 
